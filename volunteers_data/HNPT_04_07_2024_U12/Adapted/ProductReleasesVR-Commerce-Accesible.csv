@@ -1,0 +1,10 @@
+Frame, Timestamp, Object, DurationUntilRelease, RightHand_State, LeftHand_State
+1134, 15.7926, baby_yoda, 3.5419, Normal, Normal
+2823, 39.2770, quemador, 2.0172, Hover, Disabled
+4271, 59.3876, Mochila, 1.6932, Hover, Normal
+6378, 88.6650, balon, 8.4301, Normal, Normal
+6378, 88.6650, balon, 0.0000, Normal, Normal
+6659, 92.5678, balon, 1.0959, Normal, Normal
+8199, 113.9569, quemador, 3.9617, Normal, Select
+8201, 113.9843, quemador, 0.0125, Normal, Normal
+8456, 117.5254, Bolso, 0.8726, Normal, Normal

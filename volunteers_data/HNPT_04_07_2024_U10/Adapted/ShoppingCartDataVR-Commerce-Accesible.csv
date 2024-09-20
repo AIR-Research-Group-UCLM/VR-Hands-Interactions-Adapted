@@ -1,0 +1,6 @@
+Frame, Timestamp, Item, Action
+6461, 89.7800, quemador, ADD
+9403, 130.6600, Mochila, ADD
+9436, 131.1200, Mochila, REMOVE
+13104, 182.0600, balon, ADD
+15838, 220.0426, Microfono, ADD

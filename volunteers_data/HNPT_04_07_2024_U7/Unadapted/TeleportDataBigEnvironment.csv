@@ -1,0 +1,13 @@
+Frame, Timestamp, TPHotspot, HMD_x, HMD_z, Duration, WasTP, ZOI, Distance, RightHand_State, LeftHand_State
+1240, 14.4484, TP_Mid, 4.5917, 9.6619, 0.9272, False, Unknown, 0.0000, Hover, Disabled
+1774, 21.8632, TP_Juguetes_Adjacent, 4.6360, 9.6495, 3.6800, False, Unknown, 0.0000, Hover, Disabled
+2045, 25.6283, TP_Juguetes2_Adjacent, 4.6471, 9.6398, 2.7923, False, Unknown, 0.0000, Disabled, Disabled
+2513, 32.1277, TP_Mid, 4.5997, 9.6630, 0.1376, False, Unknown, 0.0000, Hover, Disabled
+2950, 38.1970, TP_Mid, 4.6202, 9.7284, 0.0958, False, Unknown, 0.0000, Disabled, Disabled
+2986, 38.6972, TP_Mid, 4.6189, 9.7173, 0.3605, False, Unknown, 0.0000, Disabled, Disabled
+3726, 48.9741, TP_Juguetes2_Adjacent, 4.6546, 9.6488, 0.9847, False, Unknown, 0.0000, Hover, Disabled
+3727, 48.9881, TP_Juguetes_Adjacent, 4.6547, 9.6487, 0.0140, False, Unknown, 0.0000, Hover, Disabled
+3990, 52.6414, TP_Juguetes2_Adjacent, 4.6539, 9.6376, 2.9859, False, Unknown, 0.0000, Hover, Disabled
+4522, 60.0301, TP_Juguetes2_Adjacent, 4.6555, 9.6496, 6.7076, False, Unknown, 0.0000, Hover, Disabled
+4666, 62.0301, TP_Juguetes2_Adjacent, 4.6633, 9.6765, 1.3190, False, Unknown, 0.0000, Hover, Disabled
+4748, 63.1689, TP_Mid, 4.5997, 9.7397, 0.2918, False, Unknown, 0.0000, Disabled, Disabled
