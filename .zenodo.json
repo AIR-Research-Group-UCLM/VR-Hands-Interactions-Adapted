@@ -1,0 +1,59 @@
+{
+  "title": "VR-Hands-Interactions-Adapted: experimental data and analysis scripts on hand interactions in adapted virtual environments",
+  "description": "Experimental data and Python analysis scripts on hand interactions in adapted and non-adapted virtual reality environments, including difficulty indexing and visualisation of hand movement, from the VR-Shopping case study with users with motor disabilities. This work was supported by the Spanish Ministry of Science, Innovation and Universities / Agencia Estatal de Investigación under grant PID2020-117361RB-C21 (project REHAB-IMMERSIVE), and carried out by the AIR Research Group of the Universidad de Castilla-La Mancha in collaboration with the Hospital Nacional de Parapléjicos (Toledo, Spain).",
+  "creators": [
+    {
+      "name": "Grande, Rubén",
+      "affiliation": "Universidad de Castilla-La Mancha, Ciudad Real, Spain",
+      "orcid": "0000-0002-0583-6865"
+    },
+    {
+      "name": "Albusac, Javier",
+      "affiliation": "Universidad de Castilla-La Mancha, Ciudad Real, Spain",
+      "orcid": "0000-0003-1889-3065"
+    },
+    {
+      "name": "Herrera, Vanesa",
+      "affiliation": "Universidad de Castilla-La Mancha, Ciudad Real, Spain",
+      "orcid": "0000-0002-6187-4794"
+    },
+    {
+      "name": "Monekosso, Dorothy N.",
+      "affiliation": "Durham University, United Kingdom",
+      "orcid": "0000-0001-7322-5911"
+    },
+    {
+      "name": "de los Reyes-Guzmán, Ana",
+      "affiliation": "Hospital Nacional de Parapléjicos, Toledo, Spain",
+      "orcid": "0000-0003-2905-2405"
+    },
+    {
+      "name": "Vallejo, David",
+      "affiliation": "Universidad de Castilla-La Mancha, Ciudad Real, Spain",
+      "orcid": "0000-0002-6001-7192"
+    },
+    {
+      "name": "Castro-Schez, José Jesús",
+      "affiliation": "Universidad de Castilla-La Mancha, Ciudad Real, Spain",
+      "orcid": "0000-0002-0201-7653"
+    }
+  ],
+  "upload_type": "software",
+  "license": "mit",
+  "keywords": [
+    "hand interaction",
+    "accessibility",
+    "virtual reality",
+    "motor disability",
+    "VR-Shopping"
+  ],
+  "access_right": "open",
+  "language": "eng",
+  "related_identifiers": [
+    {
+      "identifier": "10.1109/ACCESS.2025.3549527",
+      "relation": "isSupplementTo",
+      "scheme": "doi"
+    }
+  ]
+}
